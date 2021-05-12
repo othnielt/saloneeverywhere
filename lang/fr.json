@@ -1,0 +1,25 @@
+{
+  "label": " Bienvenu",
+  "sign_Up": "S'inscrire",
+  "signUP": "Inscrivez-vous",
+  "invalid_Email":"addresse email invalide",
+  "invalide_Password": "Mot de passe invalide",
+  "Email": "Email",
+  "verification_Code": "Entrer votre code de verification",
+  "digit_Code": "Nous vous envoyons un code à six chiffres sur votre téléphone",
+  "code_Label": "Veuillez le saisir ci-dessous.",
+  "didn't":     "Vous n'avez pas reçu le code?",
+  "re-send": "Renvoyer",
+  "verify":"Vérifier",
+  "add": "Ajoutez une photo de vous pour personnaliser votre profil.",
+  "skip": "Skip",
+  "next": "Suivant",
+  "username": "Nom",
+  "LastName": "Prenom",
+  "Password": "Mot de passe",
+  "SnackBar_welcome": "Bienvenue",
+  "create_account": "créez votre compte gratuit aujourd'hui"
+
+
+
+}

@@ -1,0 +1,23 @@
+{
+  "label": " Welcome",
+  "sign_Up": "Sign Up",
+  "signUP": "Sign up",
+  "email": "Email",
+  "invalid_Email":"invalid email address",
+  "invalide_Password": "invalid password",
+  "verification_Code": "Enter verification Code",
+  "digit_Code": "We send you a six digit code to your phone.",
+  "code_Label": "Please enter it below.",
+  "didn't":     "Didn't receveive the code ?",
+  "re-send": "Re-send",
+  "verify": "Verify",
+  "add": "Add a photo of yourself to personalize your profile.",
+  "skip": "Skip",
+  "next": "Next",
+  "username": "First Name",
+  "lastName": "Last Name",
+  "password": "Password",
+  "snackBar_welcome": "Welcome ",
+  "create_account": "create your free account today"
+
+}

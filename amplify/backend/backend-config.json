@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "saloneverywherea47dbd9a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
