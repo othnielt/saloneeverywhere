@@ -2,12 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:amplify_flutter/amplify.dart';
 import 'package:amplify_auth_cognito/amplify_auth_cognito.dart';
 
-
 class AwsAuth extends ChangeNotifier {
   static AwsAuth instance = new AwsAuth();
-
-
-
 
   void registerAccount(
       String email, String password, String firstName, String lastName) async {
